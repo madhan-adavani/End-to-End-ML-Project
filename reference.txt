@@ -1,3 +1,0 @@
-# This is a file for my personal reference
-
-1) code . : to open vscode in current directory
